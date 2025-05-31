@@ -56,9 +56,9 @@ A first-order system represents:
 - **RC circuits** (e.g., low-pass filters)  
 
 **Transfer Function:**  
-\[
-G(s) = \frac{K}{\tau s + 1}
-\]  
+
+G(s) = {K}/{tau s + 1}
+  
 - \(K\) = Gain (how much amplification?)  
 - \(\tau\) = Time constant (how fast/slow?)  
 
