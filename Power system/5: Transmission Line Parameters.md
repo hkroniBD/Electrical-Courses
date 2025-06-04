@@ -1,10 +1,10 @@
 # Lecture 5: Transmission Line Parameters
 
 **Course Instructor** 📚  
-- **Name**: Md. Hassanul Karim Roni 👨‍🏫  
-- **Position**: Assistant Professor, EEE, HSTU, Dinajpur, BD 🏫  
-- **Email**: hassanulkarim.roni@gmail.com ✉️  
-- **Contact**: 01767052709 (WhatsApp) 📞  
+- 👨‍🏫 Md. Hassanul Karim Roni   
+- 🏫 Assistant Professor, EEE, HSTU, Dinajpur, BD   
+- ✉️ hassanulkarim.roni@gmail.com   
+- 📞 01767052709 (WhatsApp)   
 
 ## Objective  
 Master the fundamental electrical parameters of transmission lines (resistance, inductance, capacitance) and understand how line length determines modeling approaches for accurate power system analysis.
