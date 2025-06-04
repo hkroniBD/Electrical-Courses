@@ -1,34 +1,155 @@
-### Electrical Power Systems: Conceptual Understanding (Course Outline)
+Theoretical Electrical Power Systems Course Outline
 
-| Module | Lecture No. | Lecture Title | Key Concepts Covered |
-|---|---|---|---|
-| **1: Introduction** | 1 | The Big Picture: Why Power Systems Matter | Generation, Transmission, Distribution, Utilization; Reliability, Economy, Sustainability. |
-| | 2 | Evolution of Power Systems | Early DC vs. Modern AC grids; Interconnected systems; Modern challenges (demand, renewables). |
-| | 3 | Basic Electrical Concepts Review | Phasors, Complex Power (Real, Reactive, Apparent), Power Factor. |
-| | 4 | Three-Phase Systems | Advantages; Balanced systems; Star (Y) & Delta (Δ) connections; Phase & Line quantities. |
-| **2: Components** | 5 | Generators: Power Production | Synchronous Generators (Alternators); Principle; Types (Hydro, Thermal, Nuclear); Excitation. |
-| | 6 | Transformers: Voltage Shifters | Step-up/down; Turns ratio; Ideal transformer; Efficiency & losses (conceptual). |
-| | 7 | Transmission Lines: Highways of Power | Overhead vs. Cables; Line parameters (R, L, C) & their impact (conceptual). |
-| | 8 | Distribution Systems: Bringing Power Home | Radial, Ring, Interconnected systems; Primary & Secondary distribution; Components. |
-| | 9 | Loads: The Demand Side | Resistive, Inductive, Capacitive; Power factor impact; Load profiles. |
-| | 10 | Substations: Hubs of the Grid | Functions (voltage transformation, switching, protection); Major equipment (concept). |
-| **3: Analysis** | 11 | Per-Unit System | Base quantities; Per-unit values; Simplification of calculations. |
-| | 12 | Load Flow Analysis (Power Flow) | Purpose (planning, operation); Inputs/Outputs (conceptual); Interpretation of results. |
-| | 13 | Symmetrical Components | Positive, Negative, Zero sequence; Analysis of unbalanced faults. |
-| | 14 | Fault Analysis | Types of faults (symmetrical, unsymmetrical); Calculation of fault currents; Impact. |
-| **4: Protection** | 15 | The Need for Protection | Objectives (safety, equipment, continuity); Principles (Speed, Selectivity, Reliability). |
-| | 16 | Relays: The Brains of Protection | Types (Overcurrent, Distance, Differential); Operating principles; Evolution (EM to Digital). |
-| | 17 | Circuit Breakers: The Muscles of Protection | Arc extinction (Oil, Air, SF6, Vacuum); Ratings; Coordination with relays. |
-| | 18 | Protection Schemes: Zones & Coordination | Protective zones; Primary & Backup protection; Selectivity. |
-| **5: Stability & Control** | 19 | Power System Stability | Rotor angle, Voltage, Frequency stability; Preventing blackouts. |
-| | 20 | Rotor Angle Stability | Synchronism; Power-angle characteristic; Transient vs. Steady-state stability. |
-| | 21 | Voltage Stability | Voltage collapse; Reactive power support; Capacitors, FACTS (conceptual). |
-| | 22 | Frequency Stability | Generation-load balance; Governor action; Load shedding. |
-| | 23 | Power System Control | AGC; Voltage & Reactive power control; Hierarchy of control. |
-| **6: Advanced Topics** | 24 | High Voltage DC (HVDC) Transmission | Advantages (long distance, asynchronous); Disadvantages; Applications. |
-| | 25 | Flexible AC Transmission Systems (FACTS) | Power electronic devices (SVC, STATCOM, UPFC); Enhanced control & capacity. |
-| | 26 | Renewable Energy Integration | Challenges (variability, intermittency); Grid code; Impact on grid. |
-| | 27 | Smart Grid Concepts | Two-way communication; Demand response; Distributed generation; AMI. |
-| | 28 | Microgrids & Distributed Generation | Benefits (resilience, efficiency); Challenges (control, islanding); Components. |
-| | 29 | Power System Deregulation & Markets | Separation of generation/transmission/distribution; ISOs; Market impact. |
-| | 30 | Power Quality | Harmonics, Sags/Swells, Interruptions; Impact & Mitigation. |
+
+
+Lecture Number
+Topic
+Contents
+
+
+
+Lecture 1
+Introduction to Electrical Power Systems
+- Overview of power systems: generation, transmission, distribution- Components: generators, transformers, transmission lines, distribution networks- Importance in modern society- Historical evolution of power systems
+
+
+Lecture 2
+Fundamentals of Electric Power
+- Basic concepts: voltage, current, power, energy- AC vs. DC systems- Single-phase and three-phase systems- Three-phase systems: Advantages, balanced systems, Star (Y) & Delta (Δ) connections, phase & line quantities- Power factor and its significance
+
+
+Lecture 3
+Power Generation Technologies
+- Types of power plants: thermal, hydro, nuclear, renewable (solar, wind)- Working principles of generators- Efficiency and environmental considerations
+
+
+Lecture 4
+Transmission Systems: Basics
+- Structure of transmission networks- High-voltage AC and DC transmission (HVAC, HVDC)- Transmission line components: conductors, insulators, towers- Voltage levels and their significance
+
+
+Lecture 5
+Transmission Line Parameters
+- Resistance, inductance, and capacitance of transmission lines- Line models: short, medium, and long lines- Theoretical basis for line parameter calculations
+
+
+Lecture 6
+Power Flow Analysis
+- Concept of power flow in networks- Bus types: PQ, PV, slack BOTTOM bus- Theoretical foundations of load flow studies- Per-unit system: Base quantities, per-unit values, simplification of calculations
+
+
+Lecture 7
+Transformers in Power Systems
+- Transformer working principles and construction- Types: power, distribution, autotransformers- Transformer losses and efficiency- Voltage regulation and tap changing
+
+
+Lecture 8
+Distribution Systems
+- Structure of distribution networks- Radial, ring, and meshed systems- Voltage levels and distribution transformers- Theoretical aspects of power quality issues
+
+
+Lecture 9
+Power System Operation: Basics
+- Overview of power system operation- Load dispatching and unit commitment- Frequency and voltage control- Frequency stability: Generation-load balance, governor action, load shedding- Role of control centers
+
+
+Lecture 10
+Power System Control: Fundamentals
+- Introduction to power system control- Control objectives: frequency regulation, voltage control, power flow management- Automatic Generation Control (AGC) principles- Control devices: governors, exciters
+
+
+Lecture 11
+Power System Stability
+- Definition of stability: transient, dynamic, steady-state- Rotor angle stability and voltage stability- Equal area criterion
+
+
+Lecture 12
+Fault Analysis
+- Types of faults: symmetrical and unsymmetrical- Theoretical basis of short-circuit analysis- Symmetrical components method- Fault current calculations
+
+
+Lecture 13
+Power System Protection: Fundamentals
+- Need for protection in power systems- Types of protective devices: relays, circuit breakers, fuses- Protection schemes: overcurrent, differential, distance- Protective zones, primary & backup protection, selectivity- Protection coordination principles
+
+
+Lecture 14
+Load Forecasting and Demand Management
+- Importance of load forecasting- Theoretical principles of short-term and long-term forecasting- Concepts of demand-side management
+
+
+Lecture 15
+Renewable Energy Integration
+- Integration of solar and wind energy- Theoretical challenges: intermittency, grid stability- Concepts of energy storage systems (batteries, pumped hydro)
+
+
+Lecture 16
+Smart Grids
+- Concept of smart grids- Advanced metering infrastructure (AMI)- Communication technologies in smart grids- Theoretical benefits and challenges
+
+
+Lecture 17
+Power System Economics
+- Cost components: capital, operational, maintenance- Tariff structures and pricing- Concepts of deregulation and electricity markets
+
+
+Lecture 18
+Power Quality
+- Definition and importance of power quality- Issues: harmonics, voltage sags/swells, flicker- Theoretical mitigation techniques: filters, compensators
+
+
+Lecture 19
+Advanced Power Flow Techniques
+- Optimal power flow (OPF) concepts- Theoretical approaches to power flow analysis
+
+
+Lecture 20
+HVDC Systems
+- Principles of HVDC transmission- Converter technologies: LCC, VSC- Theoretical applications and advantages
+
+
+Lecture 21
+Microgrids and Distributed Generation
+- Concept of microgrids- Distributed generation sources- Operation modes: grid-connected, islanded
+
+
+Lecture 22
+Power System Reliability
+- Reliability indices: SAIDI, SAIFI, CAIDI- Theoretical principles of reliability evaluation- Concepts of redundancy and contingency planning
+
+
+Lecture 23
+Advanced Power System Operation
+- Concepts of real-time operation and control- Advanced Automatic Generation Control (AGC)- Contingency analysis and reserve management
+
+
+Lecture 24
+Advanced Power System Control
+- Advanced control strategies: optimal control, model predictive control- Wide-area control systems- Control concepts for renewable integration and microgrids
+
+
+Lecture 25
+Advanced Power System Protection
+- Digital relays and intelligent electronic devices (IEDs)- Wide-area protection systems- Adaptive protection techniques
+
+
+Lecture 26
+Energy Management Systems (EMS)
+- Role of EMS in power system operation- SCADA systems and their theoretical applications- Concepts of real-time monitoring and control
+
+
+Lecture 27
+Cybersecurity in Power Systems
+- Importance of cybersecurity in smart grids- Theoretical threats: data breaches, control system attacks- Mitigation strategies and standards
+
+
+Lecture 28
+Flexible AC Transmission Systems (FACTS)
+- Power electronic devices: SVC, STATCOM, UPFC- Theoretical principles of enhanced grid control and capacity- Applications in stability and power flow management
+
+
+Lecture 29
+Power System Deregulation
+- Concepts of separation of generation, transmission, distribution- Role of Independent System Operators (ISOs)- Theoretical impact of markets on power systems
+
+
