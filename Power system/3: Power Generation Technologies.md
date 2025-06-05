@@ -1,8 +1,5 @@
 # Lecture 3: Power Generation Technologies ⚡
 
-## Objective
-Understand the types of power plants (thermal, hydro, nuclear, renewable), working principles of generators, and efficiency and environmental considerations, with a focus on Bangladesh’s power generation landscape.
-
 ## Ice-Breaker: Fun Facts to Spark Curiosity 🌟
 - **Kaptai Dam’s Legacy** 🏞️: Built in 1962, Kaptai Hydroelectric Plant in Rangamati powers ~5% of Bangladesh’s grid, thanks to the Karnaphuli River!
 - **Solar Surge** ☀️: Bangladesh’s solar capacity hit 1,070 MW by 2023, lighting up rural homes under SREDA’s solar home systems!
