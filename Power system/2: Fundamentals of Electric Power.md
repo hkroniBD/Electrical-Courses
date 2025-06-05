@@ -1,10 +1,6 @@
 # Lecture 2: Fundamentals of Electric Power ⚡
 
-## Objective
-Understand the foundational concepts of electric power, including voltage, current, power, energy, AC vs. DC systems, single-phase and three-phase systems, and power factor, with a focus on their significance in Bangladesh’s power system.
-
 ## Ice-Breaker: Fun Facts to Spark Curiosity 🌟
-- **Tesla’s AC Triumph** 😺: Nikola Tesla’s AC system, powering Bangladesh’s 50 Hz grid, beat Edison’s DC in the 1880s, enabling efficient power for Dhaka’s factories!
 - **Power Factor Bills** 💡: A low power factor in Bangladesh’s industries can spike electricity costs, as BERC enforces a minimum of 0.85 to save energy!
 - **Three-Phase Efficiency** ⚙️: Three-phase systems drive Chittagong’s shipyards with smooth power, unlike single-phase for homes!
 - **Energy at Home** 🏠: One kWh runs a Bangladeshi household fan for ~10 hours, cooling homes in humid summers!
