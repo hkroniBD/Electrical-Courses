@@ -1,7 +1,5 @@
 # Lecture 1: Introduction to Electrical Power Systems ⚡️
 
-## Objective
-Understand the structure, components, significance, and historical evolution of electrical power systems, with a focus on Bangladesh’s power sector, including key authorities and technical specifications, to build a foundation for theoretical study.
 
 ## Ice-Breaker: Fun Facts to Spark Curiosity 🌟
 - **Tesla vs. Edison Rivalry** 😺: Nikola Tesla and Thomas Edison’s “War of the Currents” in the 1880s shaped modern grids. Edison’s DC lost to Tesla’s AC, which powers Bangladesh’s 50 Hz grid today!
