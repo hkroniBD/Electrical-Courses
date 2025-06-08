@@ -195,3 +195,6 @@ If frequency drops:
 
 5. **c) Tie-line deviation and frequency deviation**
    *ACE = tie-line error + frequency bias term.*
+
+Next Lecture:
+11: Power System Stability – Concepts & Theoretical Foundations
