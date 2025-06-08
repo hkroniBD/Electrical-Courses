@@ -1,7 +1,7 @@
 # 🌜 Lecture 15: Renewable Energy Integration
 
 **Course Title:** Theoretical Electrical Power Systems
-**Instructor:** HK Roni Sir, Assistant Professor, EEE, HSTU
+**Instructor:** HK Roni, Assistant Professor, EEE, HSTU
 📧 [hassanulkarim.roni@gmail.com](mailto:hassanulkarim.roni@gmail.com) | ☎️ 01767052709 (WhatsApp)
 
 ---
