@@ -11,6 +11,10 @@
 🔌 Faults in power systems are like **silent heart attacks** — they occur suddenly and can cripple entire networks if not diagnosed properly.
 📉 A simple **line-to-ground fault** in a remote part of the system may cause a cascade of **generator trips and blackouts** if not detected swiftly.
 
+🔥 Ice-Breaker: The 2020 National Grid Blackout in Bangladesh
+On October 4, 2020, Bangladesh suffered a massive blackout due to a fault in the transmission line system. Over 80% of the country lost power — highlighting the importance of fault detection, analysis, and protection systems in power grids.
+This case reminds us how critical it is to understand fault types and their theoretical analysis to ensure stable power systems.
+
 ---
 
 ## 🔍 What is Fault Analysis?
